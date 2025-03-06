@@ -1,2 +1,2 @@
 # Team Cipher
-The Trumpington Community College Robotics team. We're currently preparing for the FTC 2023-24 CENTERSTAGE competition.
+We're the Trumpington Community College Robotics team. We're currently preparing for the FTC 2024-25 Into the Deep competition. For more info check out our website and blog at [https://teamcipher.xyz](https://teamcipher.xyz)!
